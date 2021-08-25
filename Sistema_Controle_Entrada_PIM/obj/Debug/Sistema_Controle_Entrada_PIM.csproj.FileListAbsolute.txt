@@ -1,0 +1,14 @@
+C:\Users\neto_\source\repos\Sistema_Controle_Entrada_PIM\bin\Debug\Sistema_Controle_Entrada_PIM.exe.config
+C:\Users\neto_\source\repos\Sistema_Controle_Entrada_PIM\bin\Debug\Sistema_Controle_Entrada_PIM.exe
+C:\Users\neto_\source\repos\Sistema_Controle_Entrada_PIM\bin\Debug\Sistema_Controle_Entrada_PIM.pdb
+C:\Users\neto_\source\repos\Sistema_Controle_Entrada_PIM\obj\Debug\Sistema_Controle_Entrada_PIM.csprojAssemblyReference.cache
+C:\Users\neto_\source\repos\Sistema_Controle_Entrada_PIM\obj\Debug\Sistema_Controle_Entrada_PIM.csproj.CoreCompileInputs.cache
+C:\Users\neto_\source\repos\Sistema_Controle_Entrada_PIM\obj\Debug\Sistema_Controle_Entrada_PIM.exe
+C:\Users\neto_\source\repos\Sistema_Controle_Entrada_PIM\obj\Debug\Sistema_Controle_Entrada_PIM.pdb
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\PIM\Sistema_Controle_Entrada_PIM\bin\Debug\Sistema_Controle_Entrada_PIM.exe.config
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\PIM\Sistema_Controle_Entrada_PIM\bin\Debug\Sistema_Controle_Entrada_PIM.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\PIM\Sistema_Controle_Entrada_PIM\bin\Debug\Sistema_Controle_Entrada_PIM.pdb
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\PIM\Sistema_Controle_Entrada_PIM\obj\Debug\Sistema_Controle_Entrada_PIM.csprojAssemblyReference.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\PIM\Sistema_Controle_Entrada_PIM\obj\Debug\Sistema_Controle_Entrada_PIM.csproj.CoreCompileInputs.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\PIM\Sistema_Controle_Entrada_PIM\obj\Debug\Sistema_Controle_Entrada_PIM.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\PIM\Sistema_Controle_Entrada_PIM\obj\Debug\Sistema_Controle_Entrada_PIM.pdb
